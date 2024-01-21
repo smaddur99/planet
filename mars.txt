@@ -1,4 +1,7 @@
 Cold and dry, but everything is my favorite color
+<<<<<<< HEAD
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 But it's cold!!
+=======
+>>>>>>> parent of edc4911 (Add concerns about the effects of Mars' moons on Wolfman)
